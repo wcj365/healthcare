@@ -19,13 +19,16 @@
 - Centers for Medicare and Medicaids (CMS)
 
 ## Macro vs Micro Perspective
+
 - Macro is at the community, county, state, and national level - community health, population health, national health
 - Micro is at the individual level (person, patient, professional, provider)
 
 This course is focused on macro level.
 
 ## 1. Define and Measure Health
+
 ### 1.1 Define Health
+
 - The Oxford Dictionary - the biomedical model
 > The state of being free from illness or injury
 - The Merriam-Webster Dictionary - the biopsychological model
@@ -37,7 +40,9 @@ This course is focused on macro level.
 - The Forth Dimension - the spiritual health
 
 See page 48-49.
+
 ### 1.2 Measure Health
+
 - Quality of life 
 
 This term is genreally used to describe an individual's wellbeing. In the context of health and healthcare, it is used to measure the outcome of healthcare (p49)
@@ -59,7 +64,9 @@ This term is genreally used to describe an individual's wellbeing. In the contex
     - Sociability
     - Community Involvement
 - Measure Spiritual Health
+
 ### 1.3 Risk Factors and Determinants of Health
+
 https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health
 
 Five Broad Categories of DoH
@@ -70,14 +77,19 @@ Five Broad Categories of DoH
 - Health services
 - Individual behavior
 - Biology and genetics
+
 ## 2. Define and Measure Healthcare
+
 ### 2.1 Define Healthcare
+
 - The Oxford Dictionary - corresponding to the biomedical model
 > "The organized provision of medical care to individuals or a community"
 - The Merriam-Webster Dictionary online - corresponding to the biopsychological model
 > "Efforts made to maintain or restore physical, mental, or emotional well-being especially by trained
 > and licensed professionals"
+
 ### 2.2 Measure Healthcare - Donabedian's Healthcare Quality Model
+
 - Structure (macro)
     - People (healthcare professionals, communities, and organizations)
     - Technology (healthcare clinical tools and equipments)
@@ -97,35 +109,52 @@ Five Broad Categories of DoH
     - Patient satisfaction
     - Cost
     - Access
+    
 ## 3. Define Systems and Systems Thinking
+
 ### 3.1 Define Systems
+
 The Oxford Dictionary:
 1. A set of things working together as parts of a mechanism or an interconnecting network.
 2. A set of principles or procedures according to which something is done; an organized framework or method.
 3. The prevailing political or social order, especially when regarded as oppressive and intransigent.
+
 ### 3.2 Define Systems of Systems (SoS)
+
 ISO/IEC/IEEE 21839 definition:
 >Set of systems or system elements that interact to provide a unique capability that none of the constituent systems can accomplish on its own. 
+
 ### 3.3 Characteristics of a SoS (Boardman & Saucer)
+
 - Autonomy
 - Belonging
 - Connectivity
 - Diversity
 - Emergence
+
 ## 4 Healthcare Systems
+
 ### 4.1 Global Diversity of Healthcare Systems
+
 - US
 - Europe
 - China
+- India
+
 ### 4.2 Different Approaches to Healthcare
+
 ## 5. Define Culture and its Influence on Healthcare System
+
 ### 5.1 What is Culture
+
 - "the way of life, especially the general customs and beliefs, of a particular group of people at a particular time" - Cambridge Dictionary
 - "the customary beliefs, social forms, and material traits of a racial, religious, or social group.
 also : the characteristic features of everyday existence (such as diversions or a way of life) shared by people in a place or time" - Merriam Webster
 - "Simply said, culture is how you were raised. It developed while you grew up. With a computer metaphor, culture is the software of our minds. We need shared software in order to communicate. So culture is about what we share with those around us.
 In action in social life, culture constitutes the unwritten rules of the social game." - Hofstede 
+
 ### 5.2 Hofstede's 6D Model of National Culture
+
 1. Power Distance Index (PDI)
 2. Individualism vs Collectivism (IDV)
 3. Masculinity vs Femininity (MAS)
@@ -133,16 +162,20 @@ In action in social life, culture constitutes the unwritten rules of the social 
 5. Long-Term Orientation (LTO) vs Short-Term Orientation (STO)
 6. Indulgence vs Restraint (IVR)
 
-References:
+### 5.3 References
+
 - http://culture.pythonanywhere.com/
 - https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/definition-culture/
 - https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
 - https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=Power%20Distance%20Index%20(high%20versus,Index%20(high%20versus%20low)
 
-### 5.3 How National Culture influence Selection and Outcomes of Healthcare System
+### 5.4 How National Culture influence Selection and Outcomes of Healthcare System
+
 - Chapter 2 - Beliefs, Values, and Health
 - Anthro-Cultural Beliefs and Values (Page 72-79)
+
 ## 6. Sumary
+
 - Health is the state of holistic wellbeing, its determinants are multi-faceted, and its care requires a systemic and balanced approach.
 - Healthcare is complex process involving multiple disciplines and stakeholders with diverse perspectives and interests.
 - Healthcare policies seeks to optimize resource utilization and enable the collaborative effort by all stakeholders to prevent, diagnose, cure, and manage diseases and to promote healthy life styles and equitable healthcare. 
@@ -160,8 +193,9 @@ References:
 - individual health - population health
 - fee-for-service - performance/outcome based
 
-## 6. Looking Ahead - How this course is organizaed
-### 6.1. System Resources 
+## 7. Looking Ahead - How this course is organizaed
+
+### 7.1. System Resources 
 
 This part covers the "*Structure*" aspect of the Donabedian Model. I describes the system resources that are required to deliver healthcare services:
 
@@ -169,7 +203,7 @@ This part covers the "*Structure*" aspect of the Donabedian Model. I describes t
 - Medical Technologgy (Technology)
 - Health Services Financing (Money)
 
-### 6.2. System Process
+### 7.2. System Process
 
 This part also covers the "*Structure*" aspect of the Donabedian Model. It describes the system structure in which healthcare is delivered:
 - Outpatient and primary care services (clinics)
@@ -178,7 +212,7 @@ This part also covers the "*Structure*" aspect of the Donabedian Model. It descr
 - Long-Term Care
 - Health Services for Special Populations
 
-### 6.3. System Outcome
+### 7.3. System Outcome
 
 This part covers the "*Outcomes*" aspect of the Donabedian Model. 
 - Costs
