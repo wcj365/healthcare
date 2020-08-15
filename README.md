@@ -132,7 +132,7 @@ ISO/IEC/IEEE 21839 definition:
 - Diversity
 - Emergence
 
-## 4 Healthcare Systems
+## 4. Healthcare Systems
 
 ### 4.1 Global Diversity of Healthcare Systems
 
