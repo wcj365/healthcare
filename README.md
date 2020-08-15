@@ -167,7 +167,6 @@ In action in social life, culture constitutes the unwritten rules of the social 
 - [Culturally Conscious](http://culture.pythonanywhere.com/)
 - [Define Culture](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/definition-culture/)
 - [Six Dimensional Model of National Culture](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/)
-- [Hofstede's Cultural Dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=Power%20Distance%20Index%20(high%20versus,Index%20(high%20versus%20low)
 
 ### 5.4 How National Culture influence Selection and Outcomes of Healthcare System
 
