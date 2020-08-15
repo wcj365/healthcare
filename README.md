@@ -53,7 +53,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
     - Life expectancy
         - Life Expectancy at Birth(LEB)
         - Healthy Life Expectancy (HALE)
-        - https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/society/2019/jun/23/why-is-life-expectancy-falling?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2019%2Fjun%2F23%2Fwhy-is-life-expectancy-falling 
+        - [Why is Life Expectancy Falling?](https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/society/2019/jun/23/why-is-life-expectancy-falling?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2019%2Fjun%2F23%2Fwhy-is-life-expectancy-falling)
 - Measure Mental Health
     - Difficult to measure
     - Self-assessment
@@ -67,7 +67,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
 
 ### 1.3 Risk Factors and Determinants of Health
 
-https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health
+[Determinant of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 
 Five Broad Categories of DoH
 - Policymaking
@@ -164,10 +164,10 @@ In action in social life, culture constitutes the unwritten rules of the social 
 
 ### 5.3 References
 
-- http://culture.pythonanywhere.com/
-- https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/definition-culture/
-- https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
-- https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=Power%20Distance%20Index%20(high%20versus,Index%20(high%20versus%20low)
+- [Culturally Conscious](http://culture.pythonanywhere.com/)
+- [Define Culture](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/definition-culture/)
+- [Six Dimensional Model of National Culture](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/)
+- [Hofstede's Cultural Dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=Power%20Distance%20Index%20(high%20versus,Index%20(high%20versus%20low))
 
 ### 5.4 How National Culture influence Selection and Outcomes of Healthcare System
 
