@@ -11,6 +11,8 @@
 - [Vital Source](https://www.vitalsource.com/educators/dashboard)
 - [Jones & Bartlett Learning](https://www2.jblearning.com/my-account/dashboard/products/)
 - [Healthy Algorithms](https://healthyalgorithms.com/)
+- [Dialysis Facility Compare](https://www.medicare.gov/dialysisfacilitycompare/)
+- [Hospital Compare](https://www.medicare.gov/hospitalcompare/)
 
 ## Data Sources
 
