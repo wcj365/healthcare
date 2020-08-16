@@ -7,15 +7,19 @@
 - The Merriam-Webster Dictionary - the biopsychological model
 > "The condition of being sound in body, mind, or spirit"
 - World Health Organization (WHO) - the biopsychosocial model
-
 > "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity" 
 > (Preamble to the Constitution of WHO, 1046)
 
-- The Forth Dimension - the spiritual health
+### 1.2 The Four Dimensions of Holistic Health
+
+- Physical 
+- Mental
+- Social
+- Spiritual
 
 See page 48-49.
 
-### 1.2 Measure Health
+### 1.3 Measure Health
 
 - Quality of life 
 
@@ -39,7 +43,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
     - Community Involvement
 - Measure Spiritual Health
 
-### 1.3 Risk Factors and Determinants of Health
+### 1.4 Risk Factors and Determinants of Health
 
 [Determinant of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 
