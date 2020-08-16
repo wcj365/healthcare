@@ -112,12 +112,12 @@ ISO/IEC/IEEE 21839 definition:
 
 ## 4. Healthcare Systems
 
-### 4.1 Global Diversity of Healthcare Systems
+### 4.1 HEALTH CARE SYSTEMS OF OTHER COUNTRIES  
 
-- US
-- Europe
-- China
-- India
+Three models of national systems:
+1. National health insurance (NHI)—A tax-supported national health care program in which services are financed by the government but are rendered by private providers (e.g., Canada).
+2. National health system (NHS)—A tax-supported national health care program in which the government finances and also controls the service infrastructure (e.g., Great Britain).
+3. Socialized health insurance (SHI)—Health care is financed through government-mandated contributions by employers and employees. Health care is delivered by private providers (e.g., Germany). 	
 
 ### 4.2 Different Approaches to Healthcare
 
