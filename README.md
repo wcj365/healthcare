@@ -121,6 +121,16 @@ ISO/IEC/IEEE 21839 definition:
 
 ### 4.2 Different Approaches to Healthcare
 
+- Social oriented
+- Market oriented
+
+### 4.3 Four Aspects of US Healthcare Delivery System
+
+- Finance
+- Insurance
+- Delivery
+- Payment
+
 ## 5. Define Culture and its Influence on Healthcare System
 
 ### 5.1 What is Culture
