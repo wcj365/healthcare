@@ -31,7 +31,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
     - Life expectancy
         - Life Expectancy at Birth(LEB)
         - Healthy Life Expectancy (HALE)
-        - [Why is Life Expectancy Falling?](https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/society/2019/jun/23/why-is-life-expectancy-falling?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2019%2Fjun%2F23%2Fwhy-is-life-expectancy-falling)
+        - Article: [Why is Life Expectancy Falling?](https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/society/2019/jun/23/why-is-life-expectancy-falling?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2019%2Fjun%2F23%2Fwhy-is-life-expectancy-falling)
 - Measure Mental Health
     - Difficult to measure
     - Self-assessment
