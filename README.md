@@ -45,7 +45,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
 
 ### 1.4 Risk Factors and Determinants of Health
 
-Reference: [Determinant of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
+Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 
 Five Broad Categories of DoH
 - Policymaking
@@ -100,7 +100,7 @@ The Oxford Dictionary:
 ### 3.2 Define Systems of Systems (SoS)
 
 ISO/IEC/IEEE 21839 definition:
->Set of systems or system elements that interact to provide a unique capability that none of the constituent systems can accomplish on its own. 
+> "Set of systems or system elements that interact to provide a unique capability that none of the constituent systems can accomplish on its own. "
 
 ### 3.3 Characteristics of a SoS (Boardman & Saucer)
 
@@ -128,8 +128,7 @@ ISO/IEC/IEEE 21839 definition:
 - "the way of life, especially the general customs and beliefs, of a particular group of people at a particular time" - Cambridge Dictionary
 - "the customary beliefs, social forms, and material traits of a racial, religious, or social group.
 also : the characteristic features of everyday existence (such as diversions or a way of life) shared by people in a place or time" - Merriam Webster
-- "Simply said, culture is how you were raised. It developed while you grew up. With a computer metaphor, culture is the software of our minds. We need shared software in order to communicate. So culture is about what we share with those around us.
-In action in social life, culture constitutes the unwritten rules of the social game." - Hofstede 
+- "Simply said, culture is how you were raised. It developed while you grew up. With a computer metaphor, culture is the software of our minds. We need shared software in order to communicate. So culture is about what we share with those around us. In action in social life, culture constitutes the unwritten rules of the social game." - Hofstede 
 
 ### 5.2 Hofstede's 6D Model of National Culture
 
