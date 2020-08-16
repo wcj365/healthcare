@@ -23,4 +23,8 @@
 - Macro is at the community, county, state, and national level - community health, population health, national health
 - Micro is at the individual level (person, patient, professional, provider)
 
+When we talk about quality of care or quality of life, we need to differentiate between individual and group. 
+In the context of public health, the focus is on group and quality is typically measured in terms of rate or ratio which is 
+also risk adjusted.
+
 This course is focused on macro level.
