@@ -45,13 +45,13 @@ This term is genreally used to describe an individual's wellbeing. In the contex
 
 ### 1.4 Risk Factors and Determinants of Health
 
-[Determinant of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
+Reference: [Determinant of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 
 Five Broad Categories of DoH
 - Policymaking
 - Social factors
     - Social Determinants of Health (SDoH)
-    - [Racism and Health Crisis](https://www.cnn.com/2020/08/14/health/states-racism-public-health-crisis-trnd/index.html)
+    - Article: [Racism and Health Crisis](https://www.cnn.com/2020/08/14/health/states-racism-public-health-crisis-trnd/index.html)
 - Health services
 - Individual behavior
 - Biology and genetics
