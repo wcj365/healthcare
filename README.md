@@ -14,7 +14,7 @@
 
 ![](Maslows-Hierarchy-of-Needs-1024x791.jpg)
 
-### 1.2 The Four Dimensions of Holistic Health
+### 1.3 The Four Dimensions of Holistic Health
 
 - Physical 
 - Mental
@@ -23,7 +23,7 @@
 
 See page 48-49.
 
-### 1.3 Measure Health
+### 1.4 Measure Health
 
 - Quality of life 
 
@@ -47,7 +47,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
     - Community Involvement
 - Measure Spiritual Health
 
-### 1.4 Risk Factors and Determinants of Health
+### 1.5 Risk Factors and Determinants of Health
 
 Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 
