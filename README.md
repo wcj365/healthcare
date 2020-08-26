@@ -72,6 +72,8 @@ Five Broad Categories of DoH
 
 ### 2.2 Measure Healthcare - Donabedian's Healthcare Quality Model
 
+![](Donabedian Healthcare Quality Model.jpg)
+
 - Structure (macro)
     - People (healthcare professionals, communities, and organizations)
     - Technology (healthcare clinical tools and equipments)
