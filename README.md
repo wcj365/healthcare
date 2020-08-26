@@ -10,6 +10,10 @@
 > "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity" 
 > (Preamble to the Constitution of WHO, 1046)
 
+### 1.2 Maslaw's Hierarchy of Needs
+
+![](Maslows-Hierarchy-of-Needs-1024x791.jpg)
+
 ### 1.2 The Four Dimensions of Holistic Health
 
 - Physical 
