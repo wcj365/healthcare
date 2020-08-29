@@ -196,7 +196,7 @@ also : the characteristic features of everyday existence (such as diversions or 
 
 *To transform healthcare is to seek balance. A System approach is a balanced multiple-perspective approach.*
 - Physical - Mental
-- Dianosis - Prevention
+- Diagnosis - Prevention
 - Treatment (acute conditions) - Management (chronic conditions)
 - Behaviroal - Socioeconomic
 - illness - wellness
