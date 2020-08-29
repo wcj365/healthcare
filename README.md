@@ -129,7 +129,7 @@ ISO/IEC/IEEE 21839 definition:
 > Health disparities are preventable differences in the burden of disease, injury, violence, or opportunities to achieve optimal health that are experienced by socially 
 > disadvantaged populations. Populations can be defined by factors such as race or ethnicity, gender, education or income, disability, geographic location (e.g., rural or 
 > urban), or sexual orientation. Health disparities are inequitable and are directly related to the historical and current unequal distribution of social, political, economic, 
-> and environmental resources.
+> and environmental resources. - https://www.cdc.gov/healthyyouth/disparities/index.htm#:~:text=Health%20disparities%20are%20preventable%20differences,experienced%20by%20socially%20disadvantaged%20populations.
 
 ### 4.2 Theories of Equitable Distribution 
 - Market Justice 
