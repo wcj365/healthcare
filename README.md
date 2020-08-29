@@ -8,7 +8,7 @@
 > "The condition of being sound in body, mind, or spirit"
 - THe World Health Organization (WHO) - the biopsychosocial model
 > "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity" 
-> (Preamble to the Constitution of WHO, 1046)
+> (Preamble to the Constitution of WHO, 1946)
 
 ### 1.2 Maslaw's Hierarchy of Needs
 
