@@ -49,9 +49,13 @@ This term is genreally used to describe an individual's wellbeing. In the contex
 
 ### 1.5 Risk Factors and Determinants of Health
 
-Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
+Factors that influence an individual and a population’s health:
+- Genetic make up (20% of premature deaths)
+- Individual Behaviors (50% of premature deaths)
+- Medical Practice (10% of premature deaths)
+- Social and Environmental (20% of premature deaths)
 
-Five Broad Categories of DoH
+Five Broad Categories of DoH from Health People 2020
 - Policymaking
 - Social factors
     - Social Determinants of Health (SDoH)
@@ -59,6 +63,8 @@ Five Broad Categories of DoH
 - Health services
 - Individual behavior
 - Biology and genetics
+
+Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 
 ## 2. Define and Measure Healthcare
 
