@@ -134,7 +134,7 @@ ISO/IEC/IEEE 21839 definition:
 Reference:
 - https://www.cdc.gov/healthyyouth/disparities/index.htm#:~:text=Health%20disparities%20are%20preventable%20differences,experienced%20by%20socially%20disadvantaged%20populations.
 
-### 4.2 Theories of Equitable Distribution 
+### 4.2 Two Opposing Theories of Equitable Healthcare Distribution 
 - Market Justice 
     - Healthcare is an economic good•
 - Social Justice
@@ -204,6 +204,7 @@ also : the characteristic features of everyday existence (such as diversions or 
 - inpatient - outpatient
 - independent institutions - integrated and collaborative systems
 - individual health - population health
+- episodic - longitudinal
 - fee-for-service - performance/outcome based
 
 ## 7. Looking Ahead - How this course is organizaed
