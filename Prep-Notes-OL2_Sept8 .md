@@ -14,7 +14,9 @@ These are different from government directly financing, providing, and managing 
 3. citations and references
     - Avoid citing the textbook. 
     - Use APA format
-
+## Group Project Teams and Topics
+- Three Teams formed
+- COVID-19, Ebola, H1N1
 
 ## From last session
 - EMR -> EHR?
@@ -23,6 +25,7 @@ These are different from government directly financing, providing, and managing 
   - Knowledge  -> CMO
   - Information  -> CIO  (Your are here)
   - Data -> CTO
+  
 ## Alvi Toffler's The Third Wave as a framework for understanding the US Health History 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
