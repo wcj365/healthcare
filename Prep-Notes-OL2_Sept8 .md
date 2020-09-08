@@ -25,7 +25,11 @@ These are different from government directly financing, providing, and managing 
   - Knowledge  -> CMO
   - Information  -> CIO  (Your are here)
   - Data -> CTO
-  
+
+## Youtube video on US Healthcare History
+
+https://www.youtube.com/watch?v=hUs4HHWi_B4
+
 ## Alvi Toffler's The Third Wave as a framework for understanding the US Health History 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
