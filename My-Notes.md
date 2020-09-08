@@ -15,4 +15,9 @@ Do cite the textbook.
 
 EMR -> EHR?
 
-Healthcare Informatics and Healthcare Informatists. Using DIKW hierarchy. 
+The role that Healthcare Informatics and Healthcare Informatists play in an healthcare organization. Using DIKW hierarchy. 
+
+- Wisdom - CEO
+- Knowledge  -> CMO
+- Information  -> CIO  (Your are here)
+- Data -> CTO
