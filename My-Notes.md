@@ -23,6 +23,9 @@ These are different from government directly financing, providing, and managing 
   - Knowledge  -> CMO
   - Information  -> CIO  (Your are here)
   - Data -> CTO
+## Alvi Toffler's The Third Wave as a framework for understanding the US Health History 
+https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
+
 ## Current affair
 Dr. Fauci's recent paper and the critics
 - Original paper: https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2931012-6
