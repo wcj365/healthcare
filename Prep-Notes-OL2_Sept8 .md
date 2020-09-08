@@ -39,11 +39,10 @@ Is there universal healthcare in US? guess what there is one.
 ## Alvi Toffler's The Third Wave as a framework for understanding the US Health History 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
-
 Textbook Page 97 Table
-- Agricultural Age - Mid-18th t olate 19th (Transitioning into Industrial Age)
-- Industrial Age - Late 19th to late 20th (Transitioning into Information Age)
-- Information Age - Late 20th to 21 Century (Transitioning into Artificial Intelligence Age)
+- Mid-18th t olate 19th (Agricultural/Preindustrial Age - Transitioning into Industrial Age)
+- Late 19th to late 20th (Post Industrial Age - Transitioning into Information Age)
+- Late 20th to 21 Century (Transitioning into Artificial Intelligence Age)
 
 ## Current affair
 Dr. Fauci's recent paper and the critics
