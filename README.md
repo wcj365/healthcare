@@ -187,7 +187,14 @@ also : the characteristic features of everyday existence (such as diversions or 
 - Chapter 2 - Beliefs, Values, and Health
 - Anthro-Cultural Beliefs and Values (Page 72-79)
 
-## 6. Sumary
+## "The Third Wave" By Alvin Toffler
+- The first wave/age/era - Agricultural 
+- The second wave/age/era - Industrial 
+- The third wave/age/era - Information
+
+https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
+
+## 7. Sumary
 
 - Health is the state of holistic wellbeing, its determinants are multi-faceted, and its care requires a systemic and balanced approach.
 - Healthcare is complex process involving multiple disciplines and stakeholders with diverse perspectives and interests.
