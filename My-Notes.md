@@ -8,3 +8,8 @@ and controled by governments and are different from pure regulations.
 
 Even in a free market, there are still government rules and regulations to ensure health competitions.
 These are different from government directly financing, providing, and managing healthcare.
+
+**citations and references**
+
+Do cite the textbook. 
+
