@@ -13,3 +13,6 @@ These are different from government directly financing, providing, and managing 
 
 Do cite the textbook. 
 
+EMR -> EHR?
+
+Healthcare Informatics and Healthcare Informatists. Using DIKW hierarchy. 
