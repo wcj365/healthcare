@@ -26,11 +26,13 @@ These are different from government directly financing, providing, and managing 
   - Information  -> CIO  (Your are here)
   - Data -> CTO
 
-## Youtube video on US Healthcare History
+## Youtube video on US Healthcare and History
 
-https://www.youtube.com/watch?v=hUs4HHWi_B4
+- https://www.youtube.com/watch?v=DublqkOSBBA
+- https://www.youtube.com/watch?v=hUs4HHWi_B4
 
-fear of Socialism?
+- Capitalism vs Socialism?
+- right or privilege
 
 Is there universal healthcare in US? guess what there is one.
 
