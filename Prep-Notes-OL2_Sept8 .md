@@ -39,6 +39,12 @@ Is there universal healthcare in US? guess what there is one.
 ## Alvi Toffler's The Third Wave as a framework for understanding the US Health History 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
+
+Textbook Page 97 Table
+- Agricultural Age - Mid-18th t olate 19th 
+- Industrial Age - Late 19th to late 20th
+- Information Age - Late 20th to 21 Century
+
 ## Current affair
 Dr. Fauci's recent paper and the critics
 - Original paper: https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2931012-6
