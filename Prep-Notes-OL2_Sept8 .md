@@ -30,6 +30,10 @@ These are different from government directly financing, providing, and managing 
 
 https://www.youtube.com/watch?v=hUs4HHWi_B4
 
+fear of Socialism?
+
+Is there universal healthcare in US? guess what there is one.
+
 ## Alvi Toffler's The Third Wave as a framework for understanding the US Health History 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
