@@ -12,9 +12,8 @@ These are different from government directly financing, providing, and managing 
 2. personal experience, professional opinions, and authoritative sources
 
 3. citations and references
-
-- Avoid citing the textbook. 
-- Use APA format
+    - Avoid citing the textbook. 
+    - Use APA format
 
 
 ## From last session
