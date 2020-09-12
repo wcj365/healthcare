@@ -192,6 +192,8 @@ also : the characteristic features of everyday existence (such as diversions or 
 - The second wave/age/era - Industrial 
 - The third wave/age/era - Information
 
+![](images/the_third_wave.PNG)
+
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
 ## 7. Sumary
