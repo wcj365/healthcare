@@ -196,7 +196,7 @@ also : the characteristic features of everyday existence (such as diversions or 
 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
 
-## 7. Sumary
+## 6. Sumary
 
 - Health is the state of holistic wellbeing, its determinants are multi-faceted, and its care requires a systemic and balanced approach.
 - Healthcare is complex process involving multiple disciplines and stakeholders with diverse perspectives and interests.
@@ -244,5 +244,5 @@ This part covers the "*Outcomes*" aspect of the Donabedian Model.
 
 Note: the "Process" aspect of Donabedian model is about how healthcare is delivered. It centers around the activities performed by healthcare professionals for individual patients (micro). It is not covered in this course since this course is about population health (macro).
 
-### 7.3 Wisdom Hierarchy and Healthcare Informatics 
+### 7.4 Wisdom Hierarchy and Healthcare Informatics 
 ![](images/healthcare-informatics.png)
