@@ -241,3 +241,6 @@ This part covers the "*Outcomes*" aspect of the Donabedian Model.
 - Quality
 
 Note: the "Process" aspect of Donabedian model is about how healthcare is delivered. It centers around the activities performed by healthcare professionals for individual patients (micro). It is not covered in this course since this course is about population health (macro).
+
+### 7.3 Wisdom Hierarchy and Healthcare Informatics 
+![](images/healthcare-informatics.png)
