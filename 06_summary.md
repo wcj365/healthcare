@@ -1,8 +1,9 @@
 
-## 6. How this course is organizaed
+## 6. Course Organization
+
 ### 6.1. System Resources 
 
-This part covers the "*Structure*" aspect of the Donabedian Model. I describes the system resources that are required to deliver healthcare services:
+This part covers the "*Structure*" aspect of the Donabedian Model. It describes the system resources that are required to deliver healthcare services:
 
 - Health Services Professionals (People)
 - Medical Technologgy (Technology)
@@ -24,7 +25,9 @@ This part covers the "*Outcomes*" aspect of the Donabedian Model.
 - Access
 - Quality
 
-Note: the "Process" aspect of Donabedian model is about how healthcare is delivered. It centers around the activities performed by healthcare professionals for individual patients (micro). It is not covered in this course since this course is about population health (macro).
+Note: the "Process" aspect of Donabedian model is about how healthcare is delivered. 
+It centers around the activities performed by healthcare professionals for individual patients (micro). 
+It is not covered in this course since this course is about population health (macro).
 
 ## 6.4 Sumary
 
