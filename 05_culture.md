@@ -9,7 +9,7 @@ also : the characteristic features of everyday existence (such as diversions or 
 
 ### 5.2 Edward T. Hall's Iceburg Model of Culture
 
-![](cultural-iceberg-stanley-n-herman.jpg)
+![](images/cultural-iceberg-stanley-n-herman.jpg)
 
 ### 5.3 Hofstede's 6D Model of National Culture
 
