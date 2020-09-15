@@ -19,7 +19,8 @@ In Healthcare Informatics, we tend to focus more on digital technologies. Health
 - Americans tend to value, trust, and rely more on technology
 - We tend to be less concerned about the side effects of technology on culture
 
-Introducing a book by Neil Postman (late NYU professor)
+Introducing a 1992 book by Neil Postman (late NYU professor of communication)
+
 [Technopoly: The Surrender of Culture to Technology](https://en.wikipedia.org/wiki/Technopoly)
 
 Three phases of technological influence on culture
