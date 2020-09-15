@@ -1,5 +1,12 @@
 # Online Session Session 04 Sept 15 - Chapter 5 Medical Technology
 
+## Prelude
+- Homework assignment 03
+    - Cite a source and provide the reference. Don't just provide references.
+    - Adhere to the APA format
+- Team formation
+- Team project
+
 ## Define Technology (Merriam Webster Dictionary)
 
 > The practical application of knowledge especially in a particular area.
