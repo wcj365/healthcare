@@ -44,6 +44,7 @@ Three phases of technological influence on culture
     - https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth
 - Traditional Chinese Medicine (TCM), herbs, acupuncture (influenced by the Ayurvedic Medicine)
     - https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
+- The debates over science, non-science, and pseudoscience
 
 ## Assessment of Technology - A Simple 3E Model
 - Efficacy: The ability to produce a desired or intended result. Effectiveness.
