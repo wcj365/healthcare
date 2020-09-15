@@ -38,10 +38,12 @@ Three phases of technological influence on culture
 - Nano
 - Telehealth/m-health/e-health/
 
-## How about alternative medicine 
+## How about alternative medicine (holistic, natural, integrated, herbal, ...) 
 - Idea: Our body and our self-discipline are the root of health and are the best technology for health and healing
 - India's Ayurvedic Medicine, Yoga, meditation (one of the oldest civilizations)
+    - https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth
 - Traditional Chinese Medicine (TCM), herbs, acupuncture (influenced by the Ayurvedic Medicine)
+    - https://www.nccih.nih.gov/health/traditional-chinese-medicine-what-you-need-to-know
 
 ## Assessment of Technology - A Simple 3E Model
 - Efficacy: The ability to produce a desired or intended result. Effectiveness.
