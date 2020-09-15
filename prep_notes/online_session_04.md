@@ -20,7 +20,7 @@ In Healthcare Informatics, we tend to focus more on digital technologies. Health
 - We tend to be less concerned about the side effects of technology on culture
 
 Introducing a book by Neil Postman (late NYU professor)
-[Technopoly: The Surrender of Culture to Technology] https://en.wikipedia.org/wiki/Technopoly
+[Technopoly: The Surrender of Culture to Technology](https://en.wikipedia.org/wiki/Technopoly)
 
 Three phases of technological influence on culture
 - Tool-using cultures
