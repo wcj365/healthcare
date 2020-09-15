@@ -26,12 +26,13 @@ also : the characteristic features of everyday existence (such as diversions or 
 - [Define Culture](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/definition-culture/)
 - [Six Dimensional Model of National Culture](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/)
 
-### 5.4 How National Culture influence Selection and Outcomes of Healthcare System
+### 5.5 How National Culture influence Selection and Outcomes of Healthcare System
 
 - Chapter 2 - Beliefs, Values, and Health
 - Anthro-Cultural Beliefs and Values (Page 72-79)
 
-## "The Third Wave" By Alvin Toffler
+### 5.6 "The Third Wave" By Alvin Toffler
+
 - The first wave/age/era - Agricultural 
 - The second wave/age/era - Industrial 
 - The third wave/age/era - Information
