@@ -32,3 +32,8 @@ Three phases of technological influence on culture
 - India's Ayuervedic medicine, Yoga, meditation
 - Traditional Chinese Medicine (TCM), herbs, acupuncture
 
+## Assessment of Technology - A Simple 3E Model
+- Efficacy: The ability to produce a desired or intended result. Effectiveness.
+- Economy/Economical: Offering the best value for the money. Efficiency (higher output, lower input)
+- Ethics/eEthical: Conforming to accepted standards of conduct. Transparency, protection of privacy, security, safety. abscence of bias and injustice.
+
