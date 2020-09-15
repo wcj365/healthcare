@@ -40,8 +40,8 @@ Three phases of technological influence on culture
 
 ## How about alternative medicine 
 - Idea: Our body and our self-discipline are the root of health and are the best technology for health and healing
-- India's Ayuervedic medicine, Yoga, meditation
-- Traditional Chinese Medicine (TCM), herbs, acupuncture
+- India's Ayurvedic Medicine, Yoga, meditation (one of the oldest civilizations)
+- Traditional Chinese Medicine (TCM), herbs, acupuncture (influenced by the Ayurvedic Medicine)
 
 ## Assessment of Technology - A Simple 3E Model
 - Efficacy: The ability to produce a desired or intended result. Effectiveness.
