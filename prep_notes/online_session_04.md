@@ -1,7 +1,12 @@
-# Online Session Session 04 Sept 15 
-Medical Technology
+# Online Session Session 04 Sept 15 - Chapter 5 Medical Technology
 
-## Define technology
+## Define Technology (Merriam Webster Dictionary)
+1.
+    - a. The practical application of knowledge especially in a particular area.
+    - b. capability given by the practical application of knowledge.
+
+2. a manner of accomplishing a task especially using technical processes, methods, or knowledge.
+
 
 ## Culture and Technology (Yin and Yang)
 
