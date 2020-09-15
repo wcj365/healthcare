@@ -15,6 +15,10 @@ The broad spectrum of technology. Not just tools taking physical forms, but syst
 In Healthcare Informatics, we tend to focus more on digital technologies. Health Information Technology (HIT) includes EHR, CDS, HIE, Interoperability standards, FHIR, ICD, etc, BAN, etc.
 
 ## Culture and Technology (Yin and Yang)
+- Tchnology does wonders our quantity/quality of life and quantity/quality of care
+- Americans tend to value, trust, and rely more on technology
+- We tend to be less concerned about the side effects of technology on culture
+
 Introducing a book by Neil Postman (late NYU professor)
 [Technopoly: The Surrender of Culture to Technology] https://en.wikipedia.org/wiki/Technopoly
 
