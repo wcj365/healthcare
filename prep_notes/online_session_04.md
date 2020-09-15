@@ -9,6 +9,13 @@
 > A manner of accomplishing a task especially using technical processes, methods, or knowledge
 
 ## Culture and Technology (Yin and Yang)
+Introducing a book by Neil Postman (late NYU professor)
+[Technopoly: The Surrender of Culture to Technology] https://en.wikipedia.org/wiki/Technopoly
+
+Three phases of technological influence on culture
+- Tool-using cultures
+- Technocracies 
+- Technopolies 
 
 ## Evolution of Medical Technology
 - Mechanical/Electrical/Electronic
