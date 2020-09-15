@@ -6,6 +6,7 @@
     - Adhere to the APA format
 - Team formation
 - Team project
+- Recommendation: Use GitHub to manage and organize your school work and learning activities, and professional life. 
 
 ## Define Technology (Merriam Webster Dictionary)
 
