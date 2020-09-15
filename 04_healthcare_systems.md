@@ -12,9 +12,9 @@ Reference:
 
 ### 4.2 Two Opposing Theories of Equitable Healthcare Distribution 
 - Market Justice 
-    - Healthcare is an economic good•
+    - Healthcare is an economic good (previlige)
 - Social Justice
-    - Healthcare is a social good
+    - Healthcare is a social good (right)
 
 ### 4.3 HEALTH CARE SYSTEMS OF OTHER COUNTRIES  
 
