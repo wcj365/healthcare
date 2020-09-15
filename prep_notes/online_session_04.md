@@ -8,6 +8,8 @@
 
 > A manner of accomplishing a task especially using technical processes, methods, or knowledge
 
+**Notes:** The broad spectrum of technology. Not just tools taking physical forms, but systems, structures, and even organizational forms are considered technology. The book lists Managed Care, Integrated Delivery Networks, Clinical Laboratories as examples of technology under the category of "Organizational Delivery Structure".
+
 ## Culture and Technology (Yin and Yang)
 Introducing a book by Neil Postman (late NYU professor)
 [Technopoly: The Surrender of Culture to Technology] https://en.wikipedia.org/wiki/Technopoly
