@@ -8,7 +8,11 @@
 
 > A manner of accomplishing a task especially using technical processes, methods, or knowledge
 
-**Notes:** The broad spectrum of technology. Not just tools taking physical forms, but systems, structures, and even organizational forms are considered technology. The book lists Managed Care, Integrated Delivery Networks, Clinical Laboratories as examples of technology under the category of "Organizational Delivery Structure".
+**Notes:** 
+
+The broad spectrum of technology. Not just tools taking physical forms, but systems, structures, and even organizational forms are considered technology. The book lists Managed Care, Integrated Delivery Networks, Clinical Laboratories as examples of technology under the category of "Organizational Delivery Structure". 
+
+In Healthcare Informatics, we tend to focus more on digital technologies. Health Information Technology (HIT) includes EHR, CDS, HIE, Interoperability standards, FHIR, ICD, etc, BAN, etc.
 
 ## Culture and Technology (Yin and Yang)
 Introducing a book by Neil Postman (late NYU professor)
