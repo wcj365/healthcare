@@ -4,6 +4,8 @@
 - Homework assignment 03
     - Cite a source and provide the reference. Don't just provide references.
     - Adhere to the APA format
+- Recommend using Mendeley
+    - https://www.mendeley.com/
 - Team formation
 - Team project
 - Recommendation: Use GitHub to manage and organize your school work and learning activities, and professional life. 
