@@ -6,9 +6,11 @@
     - Adhere to the APA format
 - Recommend using Mendeley
     - https://www.mendeley.com/
+    - online, desktop, browser plug-in, MS Word plug-in
+    - Free
 - Team formation
 - Team project
-- Recommendation: Use GitHub to manage and organize your school work and learning activities, and professional life. 
+- Recommend using GitHub (Free) to manage and organize your school work and learning activities, and professional life. 
 
 ## Define Technology (Merriam Webster Dictionary)
 
