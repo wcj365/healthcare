@@ -40,6 +40,8 @@ Three phases of technological influence on culture
 - Technocracies 
 - Technopolies 
 
+[Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)
+
 ## Evolution of Medical Technology
 - Mechanical/Electrical/Electronic
 - Digital/Informational/Robotic - powered by IT/AI
