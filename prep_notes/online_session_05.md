@@ -1,6 +1,11 @@
 # Online Session 05 - Healthcare Financing
 - Review the new figure about [chapter organization](https://github.com/wcj365/healthcare/blob/master/06_summary.md)
 - Economics of healthcare or healthcare economics
+- Financing determines:
+    - Who has access, who does not have access to, healthcare
+    - Who get more, who get less, healthcare
+    - Equality vs equity
+        - [](https://www.wssu.edu/strategic-plan/documents/a-summary-of-equity-vs-equality.pdf)
 - Market: supply and demand
 - Moral Hazard
 - Adverse Selection
