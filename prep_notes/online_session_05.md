@@ -4,8 +4,8 @@
 - Financing determines:
     - Who has access, who does not have access to, healthcare
     - Who get more, who get less, healthcare
-    - Equality vs equity
-        - https://www.wssu.edu/strategic-plan/documents/a-summary-of-equity-vs-equality.pdf
+    - Health equity/equality or lack of 
+        - https://www.who.int/healthsystems/topics/equity/en/
 - Market: supply and demand
 - Moral Hazard
 - Adverse Selection
