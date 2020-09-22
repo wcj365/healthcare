@@ -18,6 +18,9 @@
 
 ![](https://github.com/wcj365/healthcare/blob/master/images/healthcare_financing.jpg)
 
+- Question: Does more resources (% of GDP spent on healthcare) lead to better health? 
+    - more investment in medical technology lead to better health?
+    - The case of Nevada vs Utah: http://www.nphaonline.org/resources/Documents/NevadaHealthMattersDocs/RGJ%20-%20081014%20-%20A%20Tale%20of%20Two%20States.pdf
 - Market: supply and demand
 - Moral Hazard
 - Adverse Selection
