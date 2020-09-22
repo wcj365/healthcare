@@ -13,7 +13,11 @@
     - ESRD patients, who constitute 1 percent of the Medicare beneficiary population, consume 7 percent of all Medicare expenditures.
     
  ![](https://github.com/wcj365/healthcare/blob/master/images/ESRD_impact.PNG)   
- 
+
+- US Health Insurance
+
+![](https://github.com/wcj365/healthcare/blob/master/images/us_health_insurance.jpg)
+
 - Influence of Financing on the delibery of healthcare
 
 ![](https://github.com/wcj365/healthcare/blob/master/images/healthcare_financing.jpg)
