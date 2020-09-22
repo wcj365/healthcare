@@ -5,7 +5,7 @@
     - Who has access, who does not have access to, healthcare
     - Who get more, who get less, healthcare
     - Equality vs equity
-        - [](https://www.wssu.edu/strategic-plan/documents/a-summary-of-equity-vs-equality.pdf)
+        - https://www.wssu.edu/strategic-plan/documents/a-summary-of-equity-vs-equality.pdf
 - Market: supply and demand
 - Moral Hazard
 - Adverse Selection
