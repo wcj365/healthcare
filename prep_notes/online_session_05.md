@@ -3,8 +3,8 @@
 - Economics of healthcare or healthcare economics
 - Financing determines:
     - Who has access, who does not have access to, healthcare
-    - Who get more, who get less, healthcare
-    - Health equity/equality or lack of 
+    - Who gets more, who gets less, healthcare
+    - Health equity/equality or inequality/inequity 
         - https://www.who.int/healthsystems/topics/equity/en/
 - Market: supply and demand
 - Moral Hazard
