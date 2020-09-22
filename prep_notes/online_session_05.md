@@ -1,0 +1,17 @@
+# Online Session 05 - Healthcare Financing
+- Economics of healthcare or healthcare economics
+- Market: supply and demand
+- Moral Hazard
+- Adverse Selection
+- Payment Models
+    - Fee for Service
+    - Bundled Payment (e.g., ESRD)
+    - Value-based purchasing
+- Options : Public and Private
+- Public
+    - Medicare
+    - Medicaid
+    - Indian Health Service
+    - DoD 
+    - VA
+- Healthcare Fraud and its prevention
