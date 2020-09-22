@@ -1,6 +1,8 @@
 # Online Session 05 - Healthcare Financing
 - Review the new figure about [chapter organization](https://github.com/wcj365/healthcare/blob/master/06_summary.md)
 - Economics of healthcare or healthcare economics
+    - Economics benefits from data analysis
+    - Health Informatics supports Health Economics 
 - Financing determines:
     - Who has access, who does not have access to, healthcare
     - Who gets more, who gets less, healthcare
