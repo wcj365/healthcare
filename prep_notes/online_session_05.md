@@ -8,7 +8,7 @@
         - https://www.who.int/healthsystems/topics/equity/en/
     - Why ESRD becomes the only disease with universal coverage?
         - On 30 oct ober 197 2 President Richard Nixon signed the Social Security Amendments of 1972, one provision of which extended Medicare coverage to persons with chronic renal failure. 
-        - ESRD patients, who constitute half of 1 percent of the Medicare beneficiary population, consume 5 percent of all Medicare expenditures.
+        - ESRD patients, who constitute 1 percent of the Medicare beneficiary population, consume 7 percent of all Medicare expenditures.
 - Market: supply and demand
 - Moral Hazard
 - Adverse Selection
