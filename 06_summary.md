@@ -48,6 +48,7 @@ It is not covered in this course since this course is about population health (m
 - individual health - population health
 - episodic - longitudinal
 - fee-for-service - performance/outcome based
-
-### 6.5 Wisdom Hierarchy and Healthcare Informatics 
+### 6.5 Chapter Organization Using Donabedian Model
+![](images/healthcare-Shi-Singh.PNG)
+### 6.6 Wisdom Hierarchy and Healthcare Informatics 
 ![](images/healthcare-informatics.png)
