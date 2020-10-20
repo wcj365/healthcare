@@ -12,7 +12,10 @@
 - Where to get data and what analysis tools to use?
 - Within US, compare different states, or urban, suburban, rural areas; compare among races and ethnic groups. 
 - maybe looking at COVID-19 and its impact on LTC in general or nursing homes in specific
-## Presentation Samepl Agenda
+## FYI
+- Course syllabus was updated
+- Course modules were updated
+## Presentation Sample Agenda
 ### 1. Introduction (5 min) – name of presenter
 ### 2. Section 1 (5  min) - name of presenter
 ### 3. Section 2 (5 min) - name of presenter
