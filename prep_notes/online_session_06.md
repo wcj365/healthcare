@@ -3,7 +3,7 @@
 - Course syllabus was updated
 - Course modules were updated
 ## Presentation Sample Agenda
-
+![](../images/sample_agenda.png)
 
 ## Four Dimensions of Health and Long-Term Care
 
