@@ -3,12 +3,7 @@
 - Course syllabus was updated
 - Course modules were updated
 ## Presentation Sample Agenda
-### 1. Introduction (5 min) – name of presenter
-### 2. Section 1 (5  min) - name of presenter
-### 3. Section 2 (5 min) - name of presenter
-### 4. Section 3 (5 min) - name of presenter
-### 5. Section 4 (5 min) - name of presenter
-### 6. Q & A (5 min)
+
 
 ## Four Dimensions of Health and Long-Term Care
 
