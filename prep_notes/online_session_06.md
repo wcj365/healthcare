@@ -1,12 +1,21 @@
 # Prep Notes for Online Session 6
+
 ## FYI
 - Course syllabus was updated
 - Course modules were updated
+
 ## Presentation Sample Agenda
 ![](../images/sample_agenda.png)
 
-## Four Dimensions of Health and Long-Term Care
+## Na Presentation 
+- 10 minutes Presentation
+- 5 minutes Q & A
 
+## Jacob Presentation
+- 10 minutes Presentation
+- 5 minutes Q & A
+
+## Four Dimensions of Health and Long-Term Care
 ![](../images/long_term_care.PNG)
 
 ## Health Informatics Related to Aging and LTC
@@ -18,9 +27,3 @@
 - Within US, compare different states, or urban, suburban, rural areas; compare among races and ethnic groups. 
 - maybe looking at COVID-19 and its impact on LTC in general or nursing homes in specific
 
-## Na Presentation 
-- 10 minutes Presentation
-- 5 minutes Q & A
-## Jacob Presentation
-- 10 minutes Presentation
-- 5 minutes Q & A
