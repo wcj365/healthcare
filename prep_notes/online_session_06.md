@@ -19,3 +19,10 @@
 ### 4. Section 3 (5 min) - name of presenter
 ### 5. Section 4 (5 min) - name of presenter
 ### 6. Q & A (5 min)
+
+## Na Presentation 
+- 10 minutes Presentation
+- 5 minutes Q & A
+## Jacob Presentation
+- 10 minutes Presentation
+- 5 minutes Q & A
