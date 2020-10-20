@@ -1,3 +1,7 @@
+# Prep Notes for Online Session 6
+
+## Four Dimensions of Health and Long-Term Care
+
 ![](../images/long_term_care.PNG)
 
 ## Health Informatics Related to Aging and LTC
