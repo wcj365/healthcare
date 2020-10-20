@@ -6,3 +6,5 @@
 - Cost/payment, Insurance, and financing of LTC
 - Do differences in cultural have impact on how each country handle LTC?- 
 - Where to get data and what analysis tools to use?
+- Within US, compare different states, or urban, suburban, rural areas; compare among races and ethnic groups. 
+- maybe looking at COVID-19 and its impact on LTC in general or nursing homes in specific
