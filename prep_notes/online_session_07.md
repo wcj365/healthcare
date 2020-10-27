@@ -33,8 +33,9 @@
     - Racial/Ethnic
     - Gender/Age
     - Geographic
-- Enabling (Socioeconomic)
-    - Insurance coverage
+- Enabling (socioeconomic)
+    - Income
+    - Insurance status
     - Homelessness
 - Need (medical)
     - Mental health
