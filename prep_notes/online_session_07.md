@@ -44,4 +44,5 @@
 ### Takeaways
 - All three forces of vulnerability at work make an individual or a goupe of individuals even more vulnerable
 - Social detterminants of health 
-- Health disparity/inequality/inequity
+- Disparity/inequality/inequity in health and healthcare
+- Research and policy implications
