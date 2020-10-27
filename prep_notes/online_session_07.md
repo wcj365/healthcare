@@ -28,7 +28,7 @@
 - Underpriviliged
 - American underclasses
 ### Vulnerability Framework (Shi & Stevens, 2010)
-![](
+![](../images/vulnerability_framework2.jpg)
 - Predisposition (demogrophic/cultural)
     - Racial/Ethnic
     - Gender/Age
