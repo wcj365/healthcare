@@ -28,10 +28,10 @@
 - Underpriviliged
 - American underclasses
 ### Vulnerability Framework (Shi & Stevens, 2010)
+![](
 - Predisposition (demogrophic/cultural)
     - Racial/Ethnic
-    - Gender
-    - Age
+    - Gender/Age
     - Geographic
 - Enabling (Socioeconomic)
     - Insurance coverage
@@ -40,3 +40,7 @@
     - Mental health
     - Chronic illness and disability
     - HIV/AIDS
+### Takeaways
+- All three forces of vulnerability at work make an individual or a goupe of individuals even more vulnerable
+- Social detterminants of health 
+- Health disparity/inequality/inequity
