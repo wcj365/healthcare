@@ -15,13 +15,13 @@
      - Try to use tables and charts
      - Make it easier to compare and contrast
      
- ## Vulnerable Population vs General Population
- ### Definition of Vulnerable population
+ ## Special Populations vs the General Population
+ ### Definition of Vulnerable Populations
  > "Vulnerable populations are at risk for disparate healthcare access and outcomes because of economic, cultural, ethnic or health characteristics. 
  > Vulnerable populations include patients who are racial or ethnic minorities, children, elderly, socioeconomically disadvantaged, underinsured or 
  > those with certain medical conditions. Members of vulnerable populations often have health conditions that are exacerbated by unnecessarily inadequate healthcare."
  > https://journals.lww.com/co-anesthesiology/Abstract/2013/04000/Vulnerable_populations_in_healthcare.15.aspx#:~:text=Vulnerable%20populations%20include%20patients%20who,exacerbated%20by%20unnecessarily%20inadequate%20healthcare.
- ### Various terminologies
+ ### Various Terminologies
 - Underserved
 - Medically underserved
 - Medically disadvantaged
@@ -52,5 +52,4 @@
     - Pre-existing conditions
     - Indidual mandate 
         - to reduce the number of uninsured
-        - To pay for the newly covered
-- 
+        - To help finance the increased coverage 
