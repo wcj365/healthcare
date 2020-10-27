@@ -45,4 +45,12 @@
 - All three forces of vulnerability at work make an individual or a goupe of individuals even more vulnerable
 - Social detterminants of health 
 - Disparity/inequality/inequity in health and healthcare
-- Research and policy implications
+- Research and Policy implications
+### Current Affairs
+- Appointment of Amy Coney Barrett to the supreme court
+- Affordable Care Act (ACA, Obamacare)
+    - Pre-existing conditions
+    - Indidual mandate 
+        - to reduce the number of uninsured
+        - To pay for the newly covered
+- 
