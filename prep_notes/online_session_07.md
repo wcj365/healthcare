@@ -21,6 +21,10 @@
  > Vulnerable populations include patients who are racial or ethnic minorities, children, elderly, socioeconomically disadvantaged, underinsured or 
  > those with certain medical conditions. Members of vulnerable populations often have health conditions that are exacerbated by unnecessarily inadequate healthcare."
  > https://journals.lww.com/co-anesthesiology/Abstract/2013/04000/Vulnerable_populations_in_healthcare.15.aspx#:~:text=Vulnerable%20populations%20include%20patients%20who,exacerbated%20by%20unnecessarily%20inadequate%20healthcare.
+ ### Question - Vulnerable to what?
+ -?
+ -?
+ -?
  ### Various Terminologies
 - Underserved
 - Medically underserved
@@ -45,6 +49,7 @@
 - All three forces of vulnerability at work make an individual or a goupe of individuals even more vulnerable
 - Social detterminants of health 
 - Disparity/inequality/inequity in health and healthcare
+- Health and healthcare as a previlige vs a right
 - Research and Policy implications
 ### Current Affairs
 - Appointment of Amy Coney Barrett to the supreme court
