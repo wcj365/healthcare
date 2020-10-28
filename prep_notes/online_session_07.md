@@ -22,9 +22,9 @@
  > those with certain medical conditions. Members of vulnerable populations often have health conditions that are exacerbated by unnecessarily inadequate healthcare."
  > https://journals.lww.com/co-anesthesiology/Abstract/2013/04000/Vulnerable_populations_in_healthcare.15.aspx#:~:text=Vulnerable%20populations%20include%20patients%20who,exacerbated%20by%20unnecessarily%20inadequate%20healthcare.
  ### Question - Vulnerable to what?
- -?
- -?
- -?
+ - ?
+ - ?
+ - ?
  ### Various Terminologies
 - Underserved
 - Medically underserved
