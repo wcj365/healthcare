@@ -1,6 +1,6 @@
-## 1. Define and Measure Health
+# 1. Define and Measure Health
 
-### 1.1 Define Health
+## 1.1 Define Health
 
 - The Oxford Dictionary - the biomedical model
 > The state of being free from illness or injury
@@ -10,11 +10,11 @@
 > "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity" 
 > (Preamble to the Constitution of WHO, 1946)
 
-### 1.2 Maslaw's Hierarchy of Needs
+## 1.2 Maslaw's Hierarchy of Needs
 
 ![](images/Maslows-Hierarchy-of-Needs-1024x791.jpg)
 
-### 1.3 The Four Dimensions of Holistic Health
+## 1.3 The Four Dimensions of Holistic Health
 
 - Physical 
 - Mental
@@ -23,7 +23,7 @@
 
 See page 48-49.
 
-### 1.4 Measure Health
+## 1.4 Measure Health
 
 - Quality of life 
 
@@ -47,15 +47,17 @@ This term is genreally used to describe an individual's wellbeing. In the contex
     - Community Involvement
 - Measure Spiritual Health
 
-### 1.5 Risk Factors and Determinants of Health
+## 1.5 Risk Factors and Determinants of Health
+### Blum's Model of Determinants of Health (Blum, 1974)
+![](images/Blum-Model.jpg)
 
-Factors that influence an individual and a population’s health:
+### Factors that influence an individual and a population’s health:
 - Genetic make up (20% of premature deaths)
 - Individual Behaviors (50% of premature deaths)
 - Medical Practice (10% of premature deaths)
 - Social and Environmental (20% of premature deaths)
 
-Five Broad Categories of DoH from Health People 2020
+### Five Broad Categories of DoH from Health People 2020
 - Policymaking
 - Social factors
     - Social Determinants of Health (SDoH)
