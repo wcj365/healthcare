@@ -28,7 +28,9 @@
     - Waste
     - Fraud
     - Abuse   
-### 1.3 Address Root Causes of Health 
+### 1.3 Approaches to Contain Costs
+
+### 1.4 Address Root Causes of Health 
 - Prevention vs Intervention 
 - Social determinants of health
 
