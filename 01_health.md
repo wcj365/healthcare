@@ -73,4 +73,4 @@ Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeo
 ## 1.6 WHO SDoH Conceptual Framework
 ![](images/WHO-SDoH-Framework.jpg)
 
-https://www.who.int/sdhconference/resources/ConceptualframeworkforactiononSDH_eng.pdf
+Source: https://www.who.int/sdhconference/resources/ConceptualframeworkforactiononSDH_eng.pdf
