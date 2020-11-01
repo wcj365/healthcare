@@ -10,10 +10,9 @@
     - Employers 
     - Providers (adminstrative cost, profit-driven, waste, defense medicine/overuse, fraud/abuse)
     - Patients (people live longer and unhealthier lives)
-## Address Root Causes of Health to Reduce Healthcare Cost
+## Address Root Causes of Health 
 - Prevention vs Intervention 
 - Social determinants of health
-
 
 ## Access
 - 
@@ -28,7 +27,7 @@
     - Care coordination
     - Patient adherence
     - Community support
-## CMS Value-Based Purchasing (VBP) Programs Aiming to Improve Quality and Reduce Cost
+## CMS Value-Based Purchasing (VBP) Programs 
 This is considered as Regulatory and policy approaches to improve quality and reduce cost.
 ![](../images/CMS_VBP_Programs.jpg)
 ## ESRD Quality Incentive Program (QIP) 
