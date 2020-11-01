@@ -29,6 +29,7 @@
     - Fraud
     - Abuse   
 ### 1.3 Approaches to Contain Costs
+![](../images/cost_containment.jpg)
 
 ### 1.4 Address Root Causes of Health 
 - Prevention vs Intervention 
