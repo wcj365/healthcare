@@ -1,3 +1,3 @@
 # Cost, Access, and Quality
-## Project Management Triple Constraints
-![](
+## Compare with Project Management Triple Constraints
+![](images/PM-Triple-Constraints.jpg)
