@@ -35,7 +35,8 @@
 - Social determinants of health
 
 ## 2. Access
-- 
+### Access to Care Framework
+![](../images/Access_to_Care_Framework.jpg)
 ## 3. Quality
 ### 3.1 Donabedian Model of Healthcare Quality
 
