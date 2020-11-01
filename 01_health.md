@@ -72,3 +72,5 @@ characteristic in this model.
 Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 ## 1.6 WHO SDoH Conceptual Framework
 ![](images/WHO-SDoH-Framework.jpg)
+
+https://www.who.int/sdhconference/resources/ConceptualframeworkforactiononSDH_eng.pdf
