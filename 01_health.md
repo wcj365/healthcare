@@ -54,7 +54,8 @@ This term is genreally used to describe an individual's wellbeing. In the contex
 Four facets of Blum's Model of Health Determinants together establish the health of an
 individual. The thickness of each arrow indicates the magnitude of the impact of that
 characteristic in this model. 
-
+### WHO SDoH Conceptual Framework
+![](images/WHO-SDoH-Framework.jpg)
 ### Factors that influence an individual and a population’s health:
 - Genetic make up (20% of premature deaths)
 - Individual Behaviors (50% of premature deaths)
