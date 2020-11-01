@@ -27,8 +27,13 @@
     - Care coordination
     - Patient adherence
     - Community support
-## CMS Value-Based Purchasing (VBP) Programs 
-This is considered as Regulatory and policy approaches to improve quality of care by paying for quality not quantity.
+## CMS Medicare Value-Based Purchasing (VBP) Programs 
+This is considered as Regulatory and policy approaches to improve quality of care with the strategy
+of paying for quality not quantity, aka "Pay for Performance" (P4P). Questions remain about its 
+effect on quality and also its potential unintended adverse consequence such as:
+- Decreased access to care
+- Increased disparities in care
+- impedements to innovation
 ![](../images/CMS_VBP_Programs.jpg)
 ## ESRD Quality Incentive Program (QIP) 
 - Measures of quality and perform scores established overtime
