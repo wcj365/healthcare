@@ -28,7 +28,7 @@
     - Patient adherence
     - Community support
 ## CMS Value-Based Purchasing (VBP) Programs 
-This is considered as Regulatory and policy approaches to improve quality and reduce cost.
+This is considered as Regulatory and policy approaches to improve quality of care by paying for quality not quantity.
 ![](../images/CMS_VBP_Programs.jpg)
 ## ESRD Quality Incentive Program (QIP) 
 - Measures of quality and perform scores established overtime
