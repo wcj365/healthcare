@@ -28,6 +28,15 @@ Public policy is a critical part of a modern society, regardless of the form or 
 - Monetory policy
 - Environmental policy
 - Health policy
+### 1.4 System Approach in Policy Design and Implementation
+Policies must address the society as a whole instead of silos. It requires the Whole-of-Government (WoG) approach based on the principle of system thinking.
+Considering systems vs Systems of Systems in five aspects:
+A - Autonomy (from authority, command-and-control to autonomy and self-governace and independence)
+B - Belonging (from tight-coupling to loose-coupling and goal sharing)
+C - Connectivity ( from unilateral to multi-lateral communications, collaborations via feedbacks)
+D - Diversity (from homogeneity to hetrogeneity)
+E - Emergence (from rigid planning to innovative solutions)
+
 ## 2.Health Policy
 ### 2.1 DEfinition
 
