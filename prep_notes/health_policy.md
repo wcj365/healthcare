@@ -1,6 +1,7 @@
 # Health Policy
 ## What is Public Policy?
 ### What is public?
+> "of, relating to, or affecting all the people or the whole area of a nation or state." - Merriam-Webster Dictionary
 - Everyone (all American)
 - The voters or likely voters
 - The politcally active (their voices/preferences are heard/represented)
