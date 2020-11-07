@@ -8,11 +8,9 @@
 ### 1.2 What is policy?
 > "a definite course or method of action selected from among alternatives and in light of given conditions
 > to guide and determine present and future decisions." - Merriam-Webster Dictionary
-### 1.3 Examples of public policy
-- Economic policy 
-- Monetory policy
-- PEnvironmental policy
-- Health policy
+
+> "Policy is a law, regulation, procedure, administrative action, incentive, or voluntary practice of governments and other institutions. " - CDC
+
 ## 2. Why policy is needed?
 > "To err is human; to forgive, divine. - English poet Alexander Pope
 
@@ -24,6 +22,16 @@ government need to implement measures, programs to help those that are at disadv
 of everyone. 
 
 Public policy is a critical part of a modern society, regardless of the form or system of the government - democratic or authoritarian, capitalist or socialist.
+### 1.3 Examples of public policy
+- Economic policy 
+- Monetory policy
+- PEnvironmental policy
+- Health policy
+### What is health policy?
+> "The public policy for public health." - Dr. Wang's lazy definition
+
+> "Decisions, plans, and actions that are undertaken to achieve specific healthcare goals within a society." - WHO
+
 ## Issues related to health
 - Climate change (Physical environment)
 - Social injustice and economic inequality (Social environment)
