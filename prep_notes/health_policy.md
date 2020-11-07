@@ -14,20 +14,23 @@
 ## 2. Why policy is needed?
 > "To err is human; to forgive, divine. - English poet Alexander Pope
 
-Human form a society and government to survive and prosper. Human society is full of conflicts, issues, and problems. Goveernment's role is to 
-govern for the good of the society (the public). 
+Humans form societies and governments to survive and prosper. Human societies are full of conflicts, issues, and problems. Goveernment's role is to 
+govern for the intereests of everyone in the society (the public). 
 
-If a free market economy, there will be people who may be less strong or less lucky are left behind. To have a just, fair, and compassionate society,
-government need to implement measures, programs to help those that are at disadvantage and at the same time protect the private properties and liverty 
+If a free market economy, there will be people who are less strong and/or less lucky are left behind. To have a just, fair, and compassionate society,
+government needs to implement measures and programs to help the less privileged or disadvantaged and also protect the private properties and liverty 
 of everyone. 
 
 Public policy is a critical part of a modern society, regardless of the form or system of the government - democratic or authoritarian, capitalist or socialist.
+
 ### 1.3 Examples of public policy
 - Economic policy 
 - Monetory policy
-- PEnvironmental policy
+- Environmental policy
 - Health policy
+
 ### What is health policy?
+
 > "The public policy for public health." - Dr. Wang's lazy definition
 
 > "Decisions, plans, and actions that are undertaken to achieve specific healthcare goals within a society." - WHO
