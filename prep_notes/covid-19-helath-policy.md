@@ -6,6 +6,7 @@ US Response
 - https://www.fda.gov/emergency-preparedness-and-response/counterterrorism-and-emerging-threats/coronavirus-disease-2019-covid-19
 - https://www.nih.gov/coronavirus
 ## Question 1 - What are the US health policies in response ot related to COVID-19 pandemic? 
+- Global level - WHO, UN?
 - Federal level
 - State level
 - Local level
