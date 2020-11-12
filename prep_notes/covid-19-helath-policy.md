@@ -1,5 +1,7 @@
 # COVID-19 Health Policy
-US Response 
+## Other Countries
+- https://ghsagenda.org/2020/10/26/thailands-review-of-the-health-system-response-to-covid-19/
+## US Response 
 - https://www.dhs.gov/coronavirus
 - https://www.cdc.gov/coronavirus/2019-nCoV/index.html
 - https://www.hhs.gov/coronavirus/index.html
