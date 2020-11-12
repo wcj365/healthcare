@@ -49,9 +49,13 @@ E - Emergence (from rigid planning to innovative solutions)
 
 Discuss health ploicy in response to COVID-19 pandemic:
 
-- Policical climate
+- Political climate
+    - Partisan fights
+    - Election year
 - Economic impacts
-    - The negative impact of lockdown on economy
+    - The concern of negative impact of lockdown on economy
+    - Worsen economic situation reduce resources needed to respond to the pandemic
+    - Worsen economic situation has long-term impact on physical and mental health due to the untreated illness and prolonged stress
 - Cultural values and norms 
     - Individualism vs Collectivism (self-care vs care for others)
     - Short-term orientation vs long-term orientation (you may have the right to do something, but it is a right thing to do it now?)
