@@ -29,7 +29,8 @@ Public policy is a critical part of a modern society, regardless of the form or 
 - Environmental policy
 - Health policy
 ### 1.4 System Approach in Policy Design and Implementation
-Policies must address the society as a whole instead of silos. It requires the **Whole-of-Government (WoG)** or **the Whole-of-Society (WoS)** approach based on the principles of system thinking.
+Policies must address the society as a whole instead of silos. 
+It requires the **Whole-of-Government (WoG)** and **the Whole-of-Society (WoS)** approach based on the principles of system thinking. 
 Considering systems vs Systems of Systems in five aspects:
 A - Autonomy (from authority, command-and-control to autonomy and self-governace and independence)
 B - Belonging (from tight-coupling to loose-coupling and goal sharing)
@@ -38,11 +39,27 @@ D - Diversity (from homogeneity to hetrogeneity)
 E - Emergence (from rigid planning to innovative solutions)
 
 ## 2.Health Policy
-### 2.1 DEfinition
+### 2.1 Definition
 
 > "The public policy for public health." - Dr. Wang's lazy definition
 
 > "Decisions, plans, and actions that are undertaken to achieve specific healthcare goals within a society." - WHO
+
+> "Health policy must be made in the contexts of politics, economy, and culture." - Jay
+
+Discuss health ploicy in response to COVID-19 pandemic:
+
+- Policical climate
+- Economic impacts
+    - The negative impact of lockdown on economy
+- Cultural values and norms 
+    - Individualism vs Collectivism (self-care vs care for others)
+    - Short-term orientation vs long-term orientation (you may have the right to do something, but it is a right thing to do it now?)
+    - Indulgence vs Refrain 
+    - Power distance (civil obedience vs civil disobedience)
+    - Uncertainty Avoidance 
+    - Masculinity vs femininity
+
 ### 2.2 Different Flavors of  Health Policy
 - Legislative vs regulatory
 - Distributive vs re-distributive
