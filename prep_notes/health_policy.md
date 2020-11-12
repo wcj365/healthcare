@@ -29,7 +29,7 @@ Public policy is a critical part of a modern society, regardless of the form or 
 - Environmental policy
 - Health policy
 ### 1.4 System Approach in Policy Design and Implementation
-Policies must address the society as a whole instead of silos. It requires the Whole-of-Government (WoG) approach based on the principle of system thinking.
+Policies must address the society as a whole instead of silos. It requires the **Whole-of-Government (WoG)** or **the Whole-of-Society (WoS)** approach based on the principles of system thinking.
 Considering systems vs Systems of Systems in five aspects:
 A - Autonomy (from authority, command-and-control to autonomy and self-governace and independence)
 B - Belonging (from tight-coupling to loose-coupling and goal sharing)
