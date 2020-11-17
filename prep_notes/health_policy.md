@@ -1,5 +1,8 @@
 # Health Policy
 ## 1. What is Public Policy?
+[Laws, Policies and Regulations: Key Terms & Concepts](
+https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-policies-regs-commonterms-2015.pdf)
+
 ### 1.1 What is public?
 > "of, relating to, or affecting all the people or the whole area of a nation or state." - Merriam-Webster Dictionary
 - Everyone (all American)
