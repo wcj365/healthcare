@@ -82,4 +82,25 @@ Discuss health ploicy in response to COVID-19 pandemic:
 - Long-term vs short-term (Health policy to contain coronasvirus pandemic is considered shor-term measures) 
 - Mandatory vs voluntary (masking, social distancing, hand-washing, reduced restaurant seating, shutting down of businesses, etc)
 - Medical practices focused vs cross-cutting: mail-in voting is both social policy (election) and health policy (to prevent further spread of coronasvirus)
- 
+
+## 3. COVID-19 and Health Policy
+### 3.1 US Response 
+- https://www.dhs.gov/coronavirus
+- https://www.cdc.gov/coronavirus/2019-nCoV/index.html
+- https://www.hhs.gov/coronavirus/index.html
+- https://www.fda.gov/emergency-preparedness-and-response/counterterrorism-and-emerging-threats/coronavirus-disease-2019-covid-19
+- https://www.nih.gov/coronavirus
+### 3.2 What are the US health policies in response or related to COVID-19 pandemic? 
+- Federal level
+- State level
+- Local level
+- Businesses
+- Individual
+### 3.3 Does the health policy of containing the spread of COVID-19 work?
+- What works and why
+- What does not work and why
+- What are the lessons learned?
+- How to do better? (If you are the new President-elect)
+### 3.4 Does the health policy have any unintended adverse consequences?
+## 4. Other Countries
+- https://ghsagenda.org/2020/10/26/thailands-review-of-the-health-system-response-to-covid-19/
