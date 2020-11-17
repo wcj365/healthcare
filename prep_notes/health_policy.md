@@ -8,6 +8,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 - Everyone (all American)
 - The voters or likely voters
 - The politcally active (their voices/preferences are heard/represented)
+- Federal/State/Local 
 ### 1.2 What is policy?
 > "a definite course or method of action selected from among alternatives and in light of given conditions
 > to guide and determine present and future decisions." - Merriam-Webster Dictionary
