@@ -20,7 +20,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 
 > "Policy is a law, regulation, procedure, administrative action, incentive, or voluntary practice of governments and other institutions. " - CDC
 
-## 2. Why policy is needed?
+### 1.3 Why policy is needed?
 > "To err is human; to forgive, divine." - English poet Alexander Pope
 
 Humans form societies and governments to survive and prosper. Human societies are full of conflicts, issues, and problems. Government's role is to 
@@ -32,12 +32,13 @@ protect the private properties and liberty of everyone.
 
 Public policy is a critical part of a modern society, regardless of the form or system of the government - democratic or authoritarian, capitalist or socialist.
 
-### 1.3 Examples of public policy
+### 1.4 Examples of public policy
 - Economic policy 
 - Monetory policy
 - Environmental policy
 - **Health policy**
-### 1.4 System Approach in Policy Design and Implementation
+### 1.5 System Approach in Policy Design and Implementation
+
 Policies must address the society as a whole instead of silos. 
 It requires the **Whole-of-Government (WoG)** and **the Whole-of-Society (WoS)** approach based on the principles of system thinking. 
 
