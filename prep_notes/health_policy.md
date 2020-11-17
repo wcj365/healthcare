@@ -21,7 +21,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 > "Policy is a law, regulation, procedure, administrative action, incentive, or voluntary practice of governments and other institutions. " - CDC
 
 ## 2. Why policy is needed?
-> "To err is human; to forgive, divine. - English poet Alexander Pope
+> "To err is human; to forgive, divine." - English poet Alexander Pope
 
 Humans form societies and governments to survive and prosper. Human societies are full of conflicts, issues, and problems. Goveernment's role is to 
 govern for the intereests of everyone in the society (the public). 
