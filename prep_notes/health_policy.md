@@ -23,12 +23,12 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 ## 2. Why policy is needed?
 > "To err is human; to forgive, divine." - English poet Alexander Pope
 
-Humans form societies and governments to survive and prosper. Human societies are full of conflicts, issues, and problems. Goveernment's role is to 
-govern for the intereests of everyone in the society (the public). 
+Humans form societies and governments to survive and prosper. Human societies are full of conflicts, issues, and problems. Government's role is to 
+govern in the intereests of everyone in the society (the public). 
 
-If a free market economy, there will be people who are less strong and/or less lucky are left behind. To have a just, fair, and compassionate society,
-government needs to implement measures and programs to help the less privileged or disadvantaged and also protect the private properties and liverty 
-of everyone. 
+In a free market economy, tpeople less strong and/or less lucky will be left behind. To have a just, fair, and compassionate society,
+governments need to implement laws, regulations, and programs to help the less privileged and disadvantaged at the same time also 
+protect the private properties and liberty of everyone. 
 
 Public policy is a critical part of a modern society, regardless of the form or system of the government - democratic or authoritarian, capitalist or socialist.
 
@@ -36,7 +36,7 @@ Public policy is a critical part of a modern society, regardless of the form or 
 - Economic policy 
 - Monetory policy
 - Environmental policy
-- Health policy
+- **Health policy**
 ### 1.4 System Approach in Policy Design and Implementation
 Policies must address the society as a whole instead of silos. 
 It requires the **Whole-of-Government (WoG)** and **the Whole-of-Society (WoS)** approach based on the principles of system thinking. 
