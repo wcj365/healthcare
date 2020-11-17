@@ -14,7 +14,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 
 > “a system of laws, regulatory measures, courses of action, and funding priorities concerning a given
 > topic promulgated by a governmental entity or its representatives.”
-> - Dean G. Kilpatrick, Ph.D.
+> Dean G. Kilpatrick, Ph.D.
 > https://mainweb-v.musc.edu/vawprevention/policy/definition.shtml
 
 > "Policy is a law, regulation, procedure, administrative action, incentive, or voluntary practice of governments and other institutions. " - CDC
