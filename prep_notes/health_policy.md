@@ -35,7 +35,7 @@ Public policy is a critical part of a modern society, regardless of the form or 
 ### 1.4 Examples of public policy
 - Economic policy 
 - Monetory policy
-- Environmental policy
+- Environmental policy (in response to climate change and global warming)
 - **Health policy**
 ### 1.5 System Approach in Policy Design and Implementation
 
@@ -79,13 +79,7 @@ Discuss health ploicy in response to COVID-19 pandemic:
 ### 2.2 Different Flavors of  Health Policy
 - Legislative vs regulatory
 - Distributive vs re-distributive
-- Long-term vs short-term orientation (Health policy to contain coronasvirus pandemic is considered shor-term measures) 
+- Long-term vs short-term (Health policy to contain coronasvirus pandemic is considered shor-term measures) 
 - Mandatory vs voluntary (masking, social distancing, hand-washing, reduced restaurant seating, shutting down of businesses, etc)
-- health focused vs cross-cutting: mail-in voting is both social policy (election) and health policy (to prevent further spread of coronasvirus)
-## Issues related to health
-- Climate change (Physical environment)
-- Social injustice and economic inequality (Social environment)
-    - Access to care
-    - Cost of care
-    - Quality of care
-- 
+- Medical practices focused vs cross-cutting: mail-in voting is both social policy (election) and health policy (to prevent further spread of coronasvirus)
+ 
