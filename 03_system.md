@@ -22,6 +22,6 @@ ISO/IEC/IEEE 21839 definition:
 
 ### 3.4 US Healthcare Delivery System
 - "A true cohesive system does not exist" (Chapter 1, page 2)
-- "Its basic features characterizes it as a patchwork of subsystems" (Chapter 1, page 37) 
+- "Its basic features characterize it as a patchwork of subsystems" (Chapter 1, page 37) 
 - It can be considered as a system of systems (SoS) 
 - We can use both system and system of systems approach to analyze it. 
