@@ -17,5 +17,7 @@
 - What are the lessons learned?
 - How to do better? (If you are the new President-elect)
 ### 7.4 Does the health policy have any unintended adverse consequences?
-### 7.5 Other Countries
+### 7.5 Global and Other Countries
+- UN? 
+- WHO?
 - https://ghsagenda.org/2020/10/26/thailands-review-of-the-health-system-response-to-covid-19/
