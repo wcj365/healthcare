@@ -1,4 +1,4 @@
-## 4. The Quad-Function Model of Healthcare Systems and Health Disparity
+## 4. Healthcare Systems and Health Disparity
 
 ### 4.1 The Quad-Function Model of Healthcare Delivery System
 
