@@ -1,5 +1,8 @@
 # Preparation Notes for Online Session 02
-
+## Correlation between Economy and Health: GDP Per Capita vs Life Expectancy
+- Watch video
+    - https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_title
+- Demonstrate the interactive data visualization
 ## Homework Assignment #1
 
 1. free market healthcare vs regulations vs socialized/nationalized healthcare
