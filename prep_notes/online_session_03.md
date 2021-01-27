@@ -1,5 +1,6 @@
 # Prep Notes for Online Session 3
-
+## Read and discuss Article
+- https://www-latimes-com.cdn.ampproject.org/v/s/www.latimes.com/business/story/2021-01-26/column-healthcare-medical-billing?amp_js_v=a6&amp_gsa=1&_amp=true&usqp=mq331AQFKAGwASA%3D#aoh=16116880918310&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2021-01-26%2Fcolumn-healthcare-medical-billing
 ## Homework assigment 2
 Healthcare institutionalization/specialization and care coordination.
 1. How has moving from individual private practices to large medical organizations affected US healthcare delivery?
