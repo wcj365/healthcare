@@ -1,4 +1,4 @@
-# Prep Notes for Online Session 3 (Sept 15)
+# Prep Notes for Online Session 3
 
 ## Homework assigment 2 - Healthcare institutionalization/specialization and care coordination.
 1. How has moving from individual private practices to large medical organizations affected US healthcare delivery?
