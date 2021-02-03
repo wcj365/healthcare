@@ -24,6 +24,6 @@ Healthcare institutionalization/specialization and care coordination.
 Technology -> economy of scale -> lose individualized care -> people/patients are treated like a part in an assembly line
 
 ## Demonstrate World Development Dashboard
-- http://wdidash.pythonanywhere.com/
+- http://wd.datadash.xyz
 
 
