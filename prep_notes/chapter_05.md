@@ -1,4 +1,4 @@
-# Online Session Session 04 Sept 15 - Chapter 5 Medical Technology
+# Chapter 5 Medical Technology
 
 ## Prelude
 - Homework assignment 03
