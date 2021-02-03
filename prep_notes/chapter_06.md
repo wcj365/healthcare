@@ -1,4 +1,4 @@
-# Online Session 05 - Healthcare Financing
+# Chapter 6 - Healthcare Financing
 - Review the new figure about [chapter organization](https://github.com/wcj365/healthcare/blob/master/06_summary.md)
 - Economics of healthcare or healthcare economics
     - Economics benefits from data analysis
