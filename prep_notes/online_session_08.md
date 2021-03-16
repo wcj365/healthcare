@@ -24,7 +24,7 @@
     - Defensive medicine -> overuse
     - Administrative cost (insurance, third-party payment)
 - Other
-    - Markey inefficiency (imperferct market)
+    - Market inefficiency (imperferct market)
     - Regulatory burden
     - Waste
     - Fraud
