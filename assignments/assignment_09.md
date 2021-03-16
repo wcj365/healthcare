@@ -28,7 +28,7 @@
 - Download the charts that are insightful 
 - Taking note of your understanding of the charts
     - what does it reveal to you?
-## Step 5. Write a report document your effort
+## Step 5. Write a report to document your effort
 - Think of yourself writing a blog that will be published online. 
     - For example, http://www.medium.com
 - You should provide a detailed introduction about the project, for example,
