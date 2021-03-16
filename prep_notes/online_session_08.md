@@ -6,7 +6,7 @@
 ## 1. Costs
 ### 1.1 Levels of Costs
 - Macro level: 
-    - National Health Expenditure (NHE) 
+    - National Health Expenditure (NHE) per Capita
     - NHE as % Gross Domestic Products (GDP) 
     - Compare growth rate of NHE vs Growth rate of GDP
 - Micro level:
