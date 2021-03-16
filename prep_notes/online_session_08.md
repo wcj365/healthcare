@@ -15,7 +15,8 @@
     - Patients (paying for insurance premium, copayment, and deductibles)
 ### 1.2 Reasons for high healthcare cost
 - Demand-side
-    - People live longer and unhealthier lives
+    - People live longer 
+    - People live unhealthier lives
     - Increased access to healthcare
 - Supply-side
     - cost of technology development (HIT, biomedical)
