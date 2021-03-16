@@ -68,11 +68,12 @@ Questions remain about its effect on quality and also its potential unintended a
 - Decreased access to care
 - Increased disparities in care
 - impedements to innovation
+- Increased provider administrative/financial/personnel burdens
 
 ![](../images/CMS_VBP_Programs.jpg)
 
 ### 3.4 ESRD Quality Incentive Program (QIP) 
-- Measures of quality and perform scores established overtime
+- Quality measures and performance scores established overtime
 - Up to 2% penality in payment
-- Dialysis Compare 
-- Public Use files (PUF)
+- Dialysis Facility Compare (DFC) 
+- Public reporting/Public Use files (PUF)
