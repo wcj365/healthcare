@@ -44,9 +44,14 @@
 
 ### 3.2 Improve Quality of Care
 Use People-Process-Technology 
-- People (providers)
-    - Training
-    - Care for the whole person, not just medical care (four dimensions of health)
+- People 
+    - Providers
+        - Training
+        - Care for the whole person, not just medical care (four dimensions of health)
+    - Patients/Family/Friends/Communities
+        - Health literacy
+        - Self-discipline
+        - Social networks
 - Process
     - Care coordination
     - Patient adherence 
@@ -54,6 +59,7 @@ Use People-Process-Technology
 - Technology
     - Health Information Technology
     - Biomedical Technology
+    - Therapies
 ### 3.3 CMS Medicare Value-Based Purchasing (VBP) Programs 
 This is considered as Regulatory and policy approaches to improve quality of care with the strategy
 of paying for quality not quantity, aka "Pay for Performance" (P4P). 
