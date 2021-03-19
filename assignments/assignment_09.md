@@ -1,6 +1,6 @@
 # Assignment #9 and Executive Session Individual Presentation
-1) Submit a draft version of paper (PPT is not required) as assignment #9 due MArch 23
-2) Submit Final version and PPT for March 27 presentation
+1) Submit a draft version of paper (PPT is not required) as assignment #9 due March 23
+2) Submit Final version and PPT due MArch 27 before noon for presentation at the executive session
 ## Step 1. Visit the World Bank website for information about the World Development Indicators 
 - https://datatopics.worldbank.org/world-development-indicators/
 - Focus on "Health" under the theme "People"
