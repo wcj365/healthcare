@@ -54,6 +54,6 @@
 
 ## Step 6. Present at the Executive Session
 - Prepare a PowerPoint Presentation
-- You have 30 minutes to present 
+- You have 20 minutes to present 
 - Q & A is included
 - Q & A can be during or at the end of the presentation 
