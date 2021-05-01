@@ -11,3 +11,6 @@
 - [10 - Summary](intro/10_summary.md)
 - [11 - COVID-19](intro/11_COVID-19.md)
 - [12 - Other](intro/other.md)
+
+#### PowerPoint Presentations
+[Here](../chapters)
