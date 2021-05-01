@@ -83,6 +83,6 @@ Discuss health ploicy in response to COVID-19 pandemic:
 - Mandatory vs voluntary (masking, social distancing, hand-washing, reduced restaurant seating, shutting down of businesses, etc)
 - Medical practices focused vs cross-cutting: mail-in voting is both social policy (election) and health policy (to prevent further spread of coronasvirus)
 ### 2.3 Health Policy Making and Implementation
-![](images/CMS_VBP_Programs.jpg)
+![](../images/CMS_VBP_Programs.jpg)
 ### 2.4 Health Policy Example - ESRD QIP
 https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/ESRDQIP/05_LawsandRegs
