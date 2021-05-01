@@ -12,7 +12,7 @@
 
 ## 1.2 Maslaw's Hierarchy of Needs
 
-![](images/Maslows-Hierarchy-of-Needs-1024x791.jpg)
+![](../images/Maslows-Hierarchy-of-Needs-1024x791.jpg)
 
 ## 1.3 The Four Dimensions of Holistic Health
 
@@ -49,7 +49,7 @@ This term is genreally used to describe an individual's wellbeing. In the contex
 
 ## 1.5 Risk Factors and Determinants of Health
 ### Blum's Model of Determinants of Health (Blum, 1974)
-![](images/Blum-Model.jpg)
+![](../images/Blum-Model.jpg)
 
 Four facets of Blum's Model of Health Determinants together establish the health of an
 individual. The thickness of each arrow indicates the magnitude of the impact of that
@@ -71,6 +71,6 @@ characteristic in this model.
 
 Reference: [Determinants of Health - Healthy People 2020](https://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 ## 1.6 WHO SDoH Conceptual Framework
-![](images/WHO-SDoH-Framework.jpg)
+![](../images/WHO-SDoH-Framework.jpg)
 
 Source: https://www.who.int/sdhconference/resources/ConceptualframeworkforactiononSDH_eng.pdf
