@@ -10,7 +10,7 @@
 
 ### 2.2 Measure Healthcare - Donabedian's Healthcare Quality Model
 
-![](images/donabedian_model.png)
+![](../images/donabedian_model.png)
 
 - Structure (macro)
     - People (healthcare professionals, communities, and organizations)
