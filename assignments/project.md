@@ -1,9 +1,10 @@
 # Individual Project & Presentation
+
 ## Step 1. Visit the World Bank website for information about the World Development Indicators 
 - https://datatopics.worldbank.org/world-development-indicators/
 - Focus on "Health" under the theme "People"
    - https://datatopics.worldbank.org/world-development-indicators/themes/people.html
-  
+ 
 ## Step 2. Visit the World Development Explorer (WDX) and get familar with its functionalities
 - The WDX main page (the explorer) 
     - http://www.worlddev.xyz
