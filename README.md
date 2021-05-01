@@ -1,5 +1,3 @@
-# Healthcare Systems
-
 ## Introductory Materials
 - [01 - Health](intro/01_health.md)
 - [02 - Healthcare](intro/02_healthcare.md)
