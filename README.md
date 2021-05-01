@@ -1,4 +1,4 @@
-# HCIN 541 - Healthcare Systems
+# Healthcare Systems
 
 ## Introductory Materials
 - [01 - Health](intro/01_health.md)
