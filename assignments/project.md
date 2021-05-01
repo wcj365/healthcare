@@ -52,7 +52,7 @@
     - A country's culture characteristics may influence the health status of its people
     - Use scatter plots (2D scatter plot and/or bubble chart)
 
-## Present at the Executive Session
+## Step 6. Present at the Executive Session
 - Prepare a PowerPoint Presentation
 - You have 30 minutes to present 
 - Q & A is included
