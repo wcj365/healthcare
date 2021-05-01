@@ -1,4 +1,4 @@
-## Introductory Materials
+## Beyond the Textbook
 - [01 - Health](intro/01_health.md)
 - [02 - Healthcare](intro/02_healthcare.md)
 - [03 - System](intro/03_system.md)
