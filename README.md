@@ -1,4 +1,6 @@
-### Materials for Harrisburg University HCIN/ISEM 541 - Healthcare Systems
+# Harrisburg University HCIN 541 - Healthcare Systems
+
+## Introductory Materials
 - [01 - Health](intro/01_health.md)
 - [02 - Healthcare](intro/02_healthcare.md)
 - [03 - System](intro/03_system.md)
@@ -12,7 +14,7 @@
 - [11 - COVID-19](intro/11_COVID-19.md)
 - [12 - Other](intro/other.md)
 
-### PowerPoint Presentations
+## PowerPoint Presentations
 - [Chapter 1](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_01.pptx)
 - [Chapter 2](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_02.pptx)
 - [Chapter 3](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_03.pptx)
