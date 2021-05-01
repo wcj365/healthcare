@@ -9,5 +9,5 @@
 - [08 - Health Policy](intro/08_health_policy.md)
 - [09 - Cost, Access, Qaulity](09_cost_access_quality.md)
 - [10 - Summary](intro/10_summary.md)
-- [11 - COVID-19](intro/09_COVID-19.md)
+- [11 - COVID-19](intro/11_COVID-19.md)
 - [12 - Other](intro/other.md)
