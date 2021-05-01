@@ -13,4 +13,4 @@
 - [12 - Other](intro/other.md)
 
 ### PowerPoint Presentations
-- [Chapter 1](../chapters/Chapter 1 Slides.pptx)
+- [Chapter 1](../chapters/Chapter_1_Slides.pptx)
