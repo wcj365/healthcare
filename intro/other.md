@@ -20,8 +20,20 @@
 - National Center for Health Statistics (NCHS)
 - Centers for Medicare and Medicaids (CMS)
 
-## Macro vs Micro Perspective
+## Use Mendeley (free)
+- https://www.mendeley.com/
+- Multiple tools
+    - Web 
+    - Desktop, 
+    - Browser plug-in
+    - MS Word plug-in
 
+## Use GitHub (free)
+- Manage and organize your school work
+- Manage and organize your professional work
+- Manage and organize your personal life 
+
+## Macro vs Micro Perspective
 - Macro is at the community, county, state, and national level - community health, population health, national health
 - Micro is at the individual level (person, patient, professional, provider)
 
