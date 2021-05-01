@@ -29,4 +29,4 @@
 - [Chapter 14](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_14.pptx)
 
 ## Individual Project
-- [Requirements](../assignments/project.md)
+- [Requirements](assignments/project.md)
