@@ -27,3 +27,6 @@
 - [Chapter 12](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_12.pptx)
 - [Chapter 13](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_13.pptx)
 - [Chapter 14](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_14.pptx)
+
+## Individual Project
+- [Requirements](../assignments/project.md)
