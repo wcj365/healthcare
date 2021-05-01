@@ -13,4 +13,4 @@
 - [12 - Other](intro/other.md)
 
 ### PowerPoint Presentations
-- [Chapter 1](../chapters/Chapter_01.pptx)
+- [Chapter 1](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_01.pptx)
