@@ -9,7 +9,7 @@ also : the characteristic features of everyday existence (such as diversions or 
 
 ### 5.2 Edward T. Hall's Iceburg Model of Culture
 
-![](images/cultural-iceberg-stanley-n-herman.jpg)
+![](../images/cultural-iceberg-stanley-n-herman.jpg)
 
 ### 5.3 Hofstede's 6D Model of National Culture
 
@@ -37,6 +37,6 @@ also : the characteristic features of everyday existence (such as diversions or 
 - The second wave/age/era - Industrial 
 - The third wave/age/era - Information
 
-![](images/the_third_wave.PNG)
+![](../images/the_third_wave.PNG)
 
 https://en.wikipedia.org/wiki/The_Third_Wave_(Toffler_book)
