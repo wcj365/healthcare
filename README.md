@@ -4,6 +4,7 @@
 - [03 - System](intro/03_system.md)
 - [04 - Healthcare System](intro/04_healthcare_systems.md)
 - [05 - Culture](intro/05_culture.md)
+- [06 - Technology](06_technology.md)
 - [06 - Health Policy](intro/06_health_policy.md)
 - [07 - COVID-19](intro/07_COVID-19.md)
 - [08 - Summary](intro/08_summary.md)
