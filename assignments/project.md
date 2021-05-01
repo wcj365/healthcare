@@ -3,13 +3,15 @@
 - https://datatopics.worldbank.org/world-development-indicators/
 - Focus on "Health" under the theme "People"
    - https://datatopics.worldbank.org/world-development-indicators/themes/people.html
+  
 ## Step 2. Visit the World Development Explorer (WDX) and get familar with its functionalities
 - The WDX main page (the explorer) 
     - http://www.worlddev.xyz
 - Use this page to understand the definition of each topic and its indicators
     - http://www.worlddev.xyz/indicators
 - Use this page to get familiar with regions and countries 
-    - http://www.worlddev.xyz/countries    - 
+    - http://www.worlddev.xyz/countries    
+  
 ## Step 3. Think about your interests 
 - Determine What topics interest you? 
     - There are 22 topics inclding Health, Environment, Education, Energy, Culture, etc.
@@ -22,12 +24,14 @@
     -  The data span from 1960 to 2018
     -  Your time span must be at least 5 years
     -  Suggestion: **2010 to 2018**
+
 ## Step 4. Use WDX to explore the topics and indicators of your interest
 - Try to utilize all charts provided by WDX 
 - Some are more useful and insightful than the others
 - Download the charts that are insightful 
 - Taking note of your understanding of the charts
     - what does it reveal to you?
+
 ## Step 5. Write a report to document your effort
 - Your report will be published online in WDX website 
     - http://www.worlddev.xyz/featured
