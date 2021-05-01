@@ -13,4 +13,4 @@
 - [12 - Other](intro/other.md)
 
 #### PowerPoint Presentations
-[Here](../chapters)
+[Here](../chapters/)
