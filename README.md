@@ -1,4 +1,4 @@
-# Harrisburg University HCIN 541 - Healthcare Systems
+# HCIN 541 - Healthcare Systems
 
 ## Introductory Materials
 - [01 - Health](intro/01_health.md)
