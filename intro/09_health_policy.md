@@ -10,7 +10,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 - The voters or likely voters
 - The politcally active (their voices/preferences are heard/represented)
 - Federal/State/Local 
-- 
+
 ### 1.2 What is policy?
 > "a definite course or method of action selected from among alternatives and in light of given conditions
 > to guide and determine present and future decisions." - Merriam-Webster Dictionary
@@ -39,7 +39,7 @@ Public policy is a critical part of a modern society, regardless of the form or 
 - Monetory policy
 - Environmental policy (in response to climate change and global warming)
 - **Health policy**
-- 
+
 ### 1.5 System Approach in Policy Design and Implementation
 
 Policies must address the society as a whole instead of silos. 
