@@ -1,4 +1,5 @@
 # Health Policy
+
 ## 1. What is Public Policy?
 [Laws, Policies and Regulations: Key Terms & Concepts](
 https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-policies-regs-commonterms-2015.pdf)
@@ -9,6 +10,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 - The voters or likely voters
 - The politcally active (their voices/preferences are heard/represented)
 - Federal/State/Local 
+- 
 ### 1.2 What is policy?
 > "a definite course or method of action selected from among alternatives and in light of given conditions
 > to guide and determine present and future decisions." - Merriam-Webster Dictionary
@@ -37,6 +39,7 @@ Public policy is a critical part of a modern society, regardless of the form or 
 - Monetory policy
 - Environmental policy (in response to climate change and global warming)
 - **Health policy**
+- 
 ### 1.5 System Approach in Policy Design and Implementation
 
 Policies must address the society as a whole instead of silos. 
@@ -51,6 +54,7 @@ five characteristics of a SoS:
 - E - Emergence (from rigid planning to innovative solutions)
 
 ## 2.Health Policy
+
 ### 2.1 Definition
 
 > "The public policy for public health." - Dr. Wang's lazy definition
@@ -82,7 +86,9 @@ Discuss health ploicy in response to COVID-19 pandemic:
 - Long-term vs short-term (Health policy to contain coronasvirus pandemic is considered shor-term measures) 
 - Mandatory vs voluntary (masking, social distancing, hand-washing, reduced restaurant seating, shutting down of businesses, etc)
 - Medical practices focused vs cross-cutting: mail-in voting is both social policy (election) and health policy (to prevent further spread of coronasvirus)
+
 ### 2.3 Health Policy Making and Implementation
 ![](../images/CMS_VBP_Programs.jpg)
+
 ### 2.4 Health Policy Example - ESRD QIP
 https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/ESRDQIP/05_LawsandRegs
