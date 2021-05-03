@@ -3,7 +3,9 @@
 ![](../images/Iron_Triangle_of_Healthcare.png)
 - Compare with Project Management Triple Constraints
 ![](../images/PM-Triple-Constraints.jpg)
+
 ## 1. Costs
+
 ### 1.1 Levels of Costs
 - Macro level: 
     - National Health Expenditure (NHE) per Capita
@@ -13,6 +15,7 @@
     - Employers (paying for insurance premium and cost of care)
     - Providers (cost of providing healthcare)
     - Patients (paying for insurance premium, copayment, and deductibles)
+
 ### 1.2 Reasons for high healthcare cost
 - Demand-side
     - People live longer (b/c wealthier)
@@ -29,6 +32,7 @@
     - Waste
     - Fraud
     - Abuse   
+
 ### 1.3 Approaches to Contain Costs
 ![](../images/cost_containment.jpg)
 
@@ -37,9 +41,12 @@
 - Social determinants of health
 
 ## 2. Access
+
 ### Access to Care Framework
 ![](../images/Access_to_Care_Framework.jpg)
+
 ## 3. Quality
+
 ### 3.1 Donabedian Model of Healthcare Quality
 
 ### 3.2 Improve Quality of Care
@@ -60,6 +67,7 @@ Use People-Process-Technology
     - Health Information Technology
     - Biomedical Technology
     - Therapies
+
 ### 3.3 CMS Medicare Value-Based Purchasing (VBP) Programs 
 This is considered as Regulatory and policy approaches to improve quality of care with the strategy
 of paying for quality not quantity, aka "Pay for Performance" (P4P). 
