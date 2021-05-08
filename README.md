@@ -14,6 +14,7 @@
 
 ## Chapter Presentations
 - [Chapter 1](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_01.pdf)
+- [Chapter 1](https://wcj365.github.io/healthcare/chapters/Chapter_01.pdf)
 - [Chapter 2](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_02.pdf)
 - [Chapter 3](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_03.pdf)
 - [Chapter 4](https://github.com/wcj365/healthcare/raw/master/chapters/Chapter_04.pdf)
