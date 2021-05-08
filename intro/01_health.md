@@ -4,9 +4,9 @@
 
 - The Oxford Dictionary - the biomedical model
 > The state of being free from illness or injury
-- The Merriam-Webster Dictionary - the biopsychological model
+- The Merriam-Webster Dictionary - the bio-psychological model
 > "The condition of being sound in body, mind, or spirit"
-- THe World Health Organization (WHO) - the biopsychosocial model
+- The World Health Organization (WHO) - the bio-psycho-social model
 > "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity" 
 > (Preamble to the Constitution of WHO, 1946)
 
