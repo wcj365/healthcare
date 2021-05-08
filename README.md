@@ -30,3 +30,6 @@
 
 ## Individual Project
 - [Requirements](assignments/project.md)
+
+## The World Development Explorer
+[http://www.worlddev.xyz](http://www.worlddev.xyz)
