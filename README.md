@@ -33,3 +33,4 @@
 
 ## The World Development Explorer
 - [http://www.worlddev.xyz](http://www.worlddev.xyz)
+- [https://www.linkedin.com/company/worlddevx](https://www.linkedin.com/company/worlddevx)
