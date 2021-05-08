@@ -1,3 +1,5 @@
+## Sylabus
+- [Summer 2021] (https://wcj365.github.io/healthcare/HCIN-541-Syllabus-Summer-2021-WANG.pdf)
 ## Beyond the Textbook
 - [01 - Health](intro/01_health.md)
 - [02 - Healthcare](intro/02_healthcare.md)
