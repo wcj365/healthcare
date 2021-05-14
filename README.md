@@ -1,3 +1,6 @@
+> “Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity”
+> (Preamble to the Constitution of WHO, 1946)
+
 ## Syllabus
 - [Summer 2021](https://wcj365.github.io/healthcare/HCIN-541-Syllabus-Summer-2021-WANG.pdf)
 
