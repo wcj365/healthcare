@@ -28,7 +28,7 @@ https://publichealthlawcenter.org/sites/default/files/resources/tclc-fs-laws-pol
 Humans form societies and governments to survive, sustain, and prosper. Human societies are full of conflicts, issues, and problems. Government's role is to 
 govern in the intereests of everyone in the society (the public). 
 
-In a free market economy, tpeople less strong and/or less lucky will be left behind. To have a just, fair, and compassionate society,
+In a free market economy, people less strong and/or less lucky will be left behind. To have a just, fair, and compassionate society,
 governments need to implement laws, regulations, and programs to help the less privileged and disadvantaged at the same time also 
 protect the private properties and liberty of everyone. 
 
